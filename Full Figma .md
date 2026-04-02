@@ -1,7 +1,7 @@
 # Figma-Project
 
 Sponsorship App
-👉 [Download Figma]([https://drive.google.com/xxxxx](https://www.figma.com/design/8T2ojHC0qiTur84qTkqhNx/Krisikorn-not-for-ux-ui-pleas-do-not-open?node-id=0-1&t=WLwupxWLhduHLoOd-1))
+👉 [Download Figma]((https://www.figma.com/design/8T2ojHC0qiTur84qTkqhNx/Krisikorn-not-for-ux-ui-pleas-do-not-open?node-id=0-1&t=WLwupxWLhduHLoOd-1))
 PDF about the Project : [Download PDF](https://canva.link/ywgtlscb1kub8wo)
 
 Member Ship App
