@@ -12,4 +12,3 @@ Au lecture
 👉 [Download Figma](https://www.figma.com/design/WuULWvvau2DYVgZwXMQJPx/Design-Thinking?node-id=239-2&t=0YRQfWjr2NqLZCWK-1)
 PDF about the Project : .....
 
-<img width="1920" height="1080" alt="KernelOS Wallpaper" src="https://github.com/user-attachments/assets/4550aae4-4f1f-46eb-a9f4-458963fc0ca7" />
